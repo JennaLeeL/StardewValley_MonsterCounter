@@ -1,0 +1,9 @@
+{
+  "Name": "Monster Counter",
+  "Author": "Jenna-Lee Lecavalier",
+  "Version": "1.0.5",
+  "Description": "Displays monster kill",
+  "UniqueID": "JennaLeeLecavalier.MonsterCounter",
+  "EntryDll": "Monster1.dll",
+  "MinimumApiVersion": "4.0.0"
+}
